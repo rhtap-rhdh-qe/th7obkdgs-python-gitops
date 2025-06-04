@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: th7obkdgs-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/th7obkdgs-python
